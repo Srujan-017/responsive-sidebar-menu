@@ -111,10 +111,10 @@ Through this project, concepts practiced include:
 Passionate about **Web Development, AI, MERN Stack, and Building Modern UI Projects**
 
 GitHub:
-https://github.com/yourusername
+https://github.com/Srujan-017
 
 LinkedIn:
-(Add LinkedIn Profile)
+ www.linkedin.com/in/srujan-v-049560325
 
 ---
 

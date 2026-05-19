@@ -51,11 +51,9 @@ This project includes:
 
 ## 📸 Screenshots
 
-Add screenshots of your project here:
+Project Preview:
 
-```md
 ![Project Screenshot](screenshot.png)
-```
 
 ---
 

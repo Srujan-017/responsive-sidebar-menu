@@ -112,12 +112,9 @@ GitHub:
 https://github.com/Srujan-017
 
 LinkedIn:
-<<<<<<< HEAD
- www.linkedin.com/in/srujan-v-049560325
-=======
 www.linkedin.com/in/srujan-v-049560325
 
->>>>>>> 31d179ed345bfd7940e2030b1eac24e87be6614a
+
 
 ---
 
